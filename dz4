@@ -66,12 +66,6 @@ int Exponentiation(int numberA, int numberB)
   int exponentiation = Exponentiation(numberA, numberB);
   Console.WriteLine($"Ответ: {exponentiation}");
 
-
-  echo "# resh" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
 git remote add origin https://github.com/VictorNovikov0018/resh.git
 git push -u origin main
 
