@@ -65,10 +65,3 @@ int Exponentiation(int numberA, int numberB)
 
   int exponentiation = Exponentiation(numberA, numberB);
   Console.WriteLine($"Ответ: {exponentiation}");
-
-git remote add origin https://github.com/VictorNovikov0018/resh.git
-git push -u origin main
-
-git remote add origin https://github.com/VictorNovikov0018/resh.git
-git branch -M main
-git push -u origin main
